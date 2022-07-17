@@ -67,6 +67,10 @@
 </a>
 
 
-<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymt-github&layout=compact)](https://github.com/ymt-github/ymt-github)</p>
+[https://github.com/ymt-github/ymt-github)
 
-<p align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymt-github&theme=default&show_icons=true)</p>
+## By the way here are some of my statistics 🚀
+
+![](https://github-readme-stats.vercel.app/api?username=ymt-github&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ymt-github&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ymt-github&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
