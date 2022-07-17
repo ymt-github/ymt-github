@@ -70,12 +70,13 @@
 
 ## By the way here are some of my statistics 🚀
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ymt-github&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ymt-github&theme=city_light&hide_border=false" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymt-github&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=ymt-github&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ymt-github&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ymt-github&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	</p>
