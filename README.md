@@ -66,4 +66,7 @@
     <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymt-github&layout=compact)](https://github.com/ymt-github/ymt-github)
+
+<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymt-github&layout=compact)](https://github.com/ymt-github/ymt-github)</p>
+
+<p align="right">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymt-github&theme=default&show_icons=true)</p>
