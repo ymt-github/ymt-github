@@ -2,8 +2,10 @@
 <p align='center'>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=450&lines=Welcome+to+my+GitHub+profile!;I'm+a+frontend+developer;I'm+a+UI%2FUX+Designer)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Ye.
-- ㊫ I'm a self-taught full-stack learner
+- 📖 I'm a self-taught full-stack learner
 - 💬 Talk to me about freelancing opportunities in full-stack and UI/UX
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -65,9 +67,6 @@
 <a href="https://dribbble.com/ymt_dribble" target="_blank"> 
     <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
 </a>
-
-
-[https://github.com/ymt-github/ymt-github)
 
 ## By the way here are some of my statistics 🚀
 
